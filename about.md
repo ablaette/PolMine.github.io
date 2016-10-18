@@ -4,13 +4,15 @@ title: About
 permalink: /about/
 ---
 
-<img src="{{ site.baseurl }}/assets/profile-placeholder.gif" title="Profile Picture" class="profile">
+## Purpose of the PolMine-Project
 
-Centrarium is a custom theme for Jekyll, made by [Ben Centra][bencentra] for his own blog. He'd be humbled if you liked it enough to use it as well! Installation and configuration instructions can be found in the [GitHub repository](https://github.com/bencentra/centrarium).
+There is an unprecedented availability of digitized, politically relevant texts. Turning text into corpora will stimulate research on old and new questions of political science. Providing the data and the code to make text mining techniques useful for political science is the purpose of the PolMine project.
 
-This page is a good place to write about yourself, your project, your product, or whatever it is your site is for. You can replace the image above, or you can get rid of it entirely. 
+The project strives to develop repositories of textual data in a sustainable fashion to suit the research needs of political science. Concerning data, the focus is on converting texts produced by public institutions into a sustainable digital format. A digital public archive of democracy is yet to be achieve. Concerning code, PolMine provides a flexible open source infrastruture for working efficiently with large scale corpora. A bulk of data without analytical abilities is of no use.
 
-You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/). And you can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+Natural language processing, statistical text mining and high performance computing will strengthen social science. Thus, we try to contribute to the larger development of text mining, big data analysis, and the eHumanities. Yet we consider quantification to be a tool to understand political contests about sense-making. Our tools are designed to support a dialogue with the data. Moving from words to numbers is not a one-way street. Going back to the original text, reading and deriving qualitative interpretations will remain a part of the research process.
+
+PolMine is a project of the Professorship of Public Policy and Regional Politics (Prof. Dr. Andreas Blätte) affiliated with the NRW School of Governance and the Institute of Political Science (Department of the Social Sciences | University of Duisburg-Essen).
 
 [centrarium]: https://github.com/bencentra/centrarium
 [bencentra]: http://bencentra.com
