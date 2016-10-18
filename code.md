@@ -1,3 +1,9 @@
+---
+layout: page
+title: Code
+permalink: /code/
+---
+
 ## The choice for R
 
 The codebase of the PolMine project is written in the statistical programming language R. The drawbacks of R notwithstanding (see The R inferno), we decided to move to R throughout:
