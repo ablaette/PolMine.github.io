@@ -7,11 +7,11 @@ permalink: /code/
 ## The choice for R
 
 The codebase of the PolMine project is written in the statistical programming language R. The drawbacks of R notwithstanding (see The R inferno), we decided to move to R throughout:
-* R offers an incredible breadth of packages for statistical analysis
-* R has a reputation to be great for visualisations
-* RStudio is a great and freely available IDE
-* interfacing to Perl, Python, Java and C (i.e. the great tools available) is not too difficult
-* R is already widely accepted among social scientists
+  * R offers an incredible breadth of packages for statistical analysis
+  * R has a reputation to be great for visualisations
+  * RStudio is a great and freely available IDE
+  * interfacing to Perl, Python, Java and C (i.e. the great tools available) is not too difficult
+  * R is already widely accepted among social scientists
 
 PolMine strives to make a contribution to social science research, and wrapping code into R packages is how we think that can be achieved best. The publication of the code on GitHub ensures the availability of latest development version of the packages.
 
