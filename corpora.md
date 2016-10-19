@@ -4,9 +4,7 @@ title: Corpora
 permalink: /corpora/
 ---
 
-# Public data
-
-The focus of PolMine is on the texts published by public institutions. Corpora of parliamentary protocols remain at the heart of the project: Parliamentary proceedings are available for long stretches of time, cover a broad set of public policies and are in the public domain, making them a valuable text resource for political science. In the course of the project, we have worked with txt-, pdf- and html-documents as raw material. We establish a framework for processing plenary protocols.
+*Public data:*: The focus of PolMine is on the texts published by public institutions. Corpora of parliamentary protocols remain at the heart of the project: Parliamentary proceedings are available for long stretches of time, cover a broad set of public policies and are in the public domain, making them a valuable text resource for political science. In the course of the project, we have worked with txt-, pdf- and html-documents as raw material. We establish a framework for processing plenary protocols.
 
 # Sustainability
 
