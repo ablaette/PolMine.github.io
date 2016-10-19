@@ -1,10 +1,8 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Purpose of the PolMine-Project
+permalink: /purpose/
 ---
-
-## Purpose of the PolMine-Project
 
 There is an unprecedented availability of digitized, politically relevant texts. Turning text into corpora will stimulate research on old and new questions of political science. Providing the data and the code to make text mining techniques useful for political science is the purpose of the PolMine project.
 
