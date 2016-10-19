@@ -30,11 +30,6 @@
     eIdentity-Projekt
     CLARIN
 
-[/toggle]
-
-[toggle title="Acknowledgements"]
+# Acknowledgements
 
 Our thanks go to the IT of the Department of Social Sciences, we are grateful for the unfailing support of Anita Born and Flo Böhm on many occasions.
-
-[/toggle]
-[/toggles]
