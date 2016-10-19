@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Corpora
-permalink: /corpora/
+title: Links
+permalink: /links/
 ---
 
 # Git and GitHub
