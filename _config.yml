@@ -11,10 +11,9 @@ exclude:
 # Site settings
 title: PolMine Project
 subtitle: "Data and code for corpus analysis"
-email: blcentra@gmail.com
-name: Ben Centra
-description: >
-  A simple yet classy theme for your Jekyll website or blog.
+email: andreas.blaette@uni-due.de
+name: Andreas Blaette
+description: Website of the PolMine Project
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
