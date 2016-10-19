@@ -5,8 +5,8 @@ permalink: /links/
 ---
 
 # Git and GitHub
-  * PolMine-repositories at GitHub [repositories polmineR and ctk (and connected repositories) at GitHub]
-   * git [download and installation of git, includes git tutorials]
+* [PolMine-repositories at GitHub](http://www.github.com/PolMine)
+* [git](https://git-scm.com/)
 
 # R and R-related Websites
   * The R Project for Statistical Computing [download of R, and of the packages of the Comprehensive R Archive Network CRAN]
