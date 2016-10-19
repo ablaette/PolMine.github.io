@@ -4,8 +4,6 @@ title: Code
 permalink: /code/
 ---
 
-# The choice for R
-
 The codebase of the PolMine project is written in the statistical programming language R. R offers a broad range of packages for statistical analysis, great visualisation capabilites, RStudio is a great and freely available IDE, interfacing to Perl, Python, Java and C (i.e. the great tools available) is not too difficult, and R is already widely accepted among social scientists. 
 
 # The CWB backend: polmineR
