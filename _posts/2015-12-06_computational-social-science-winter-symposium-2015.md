@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "Computational Social Science Winter Symposium"
+date:   2015-12-06
+author: Andreas Blätte
+categories: outreach
+tags: poster
+---
 
 At the 2nd GESIS Computational Social Science Winter Symposium 2015 (Cologne, December 2nd/3rd),
 we presented the R-package polmineR with a Posterposter_css_preview. The package is designed to make
