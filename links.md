@@ -1,3 +1,9 @@
+---
+layout: page
+title: Corpora
+permalink: /corpora/
+---
+
 # Git and GitHub
   * PolMine-repositories at GitHub [repositories polmineR and ctk (and connected repositories) at GitHub]
    * git [download and installation of git, includes git tutorials]
