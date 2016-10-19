@@ -11,15 +11,15 @@
 # Corpus Workbench
 * IMS Open Corpus Workbench [download and documentation of the CWB]
 * CQPweb[download and documentation of CQPweb]
-    CQP tutorial [introduction to the syntax of the Corpus Query Processor available through polmineR]
-    CQP encoding tutorial [must reading for anybody wanting to develop a CWB corpus]
-    CQPweb tutorials at You Tube [very useful set of introductory video tutorials]
+* CQP tutorial [introduction to the syntax of the Corpus Query Processor available through polmineR]
+* CQP encoding tutorial [must reading for anybody wanting to develop a CWB corpus]
+* CQPweb tutorials at You Tube [very useful set of introductory video tutorials]
 
 # Tools used by ctk
 
-    TreeTagger [performs Part-of-Speech annotation and includes Perl script for tokenizing corpora]
-    openNLP [tools for standard NLP functions, some of which are used by the ctk package (tokenizer, sentence segmentation)]
-    stanfordNLP [so far, tokenizer for different languages is used from the much broader library]
+* TreeTagger [performs Part-of-Speech annotation and includes Perl script for tokenizing corpora]
+* openNLP [tools for standard NLP functions, some of which are used by the ctk package (tokenizer, sentence segmentation)]
+* stanfordNLP [so far, tokenizer for different languages is used from the much broader library]
 
 # Cooperation
 
